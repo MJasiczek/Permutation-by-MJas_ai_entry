@@ -1,0 +1,12 @@
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.exe
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.deps.json
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.runtimeconfig.json
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.runtimeconfig.dev.json
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.dll
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\bin\Debug\netcoreapp3.1\Permutation by MJas.pdb
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.csproj.CoreCompileInputs.cache
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.AssemblyInfoInputs.cache
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.AssemblyInfo.cs
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.dll
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.pdb
+C:\Users\dzony\source\repos\Permutation by MJas\Permutation by MJas\obj\Debug\netcoreapp3.1\Permutation by MJas.genruntimeconfig.cache
